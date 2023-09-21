@@ -1,4 +1,4 @@
-import requests
+import requests 
 import json
 
 url = "https://learn-co-curriculum.github.io/json-site-example/endpoints/locations.json"
